@@ -1,0 +1,19 @@
+{
+    "banner": [
+      {
+        "id": 1,
+        "imgUrl": "https://static.maizuo.com/v5/upload/ce03023ab60e2d5a02c06b764d60f388.jpg",
+        "title": "神探大战"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://static.maizuo.com/v5/upload/97fbc4a43e93af7bea38c9bc5b47b013.jpg",
+        "title": "月球陨落"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://static.maizuo.com/v5/upload/8c711ea4921a813a433e2c7d17c7baf6.jpg",
+        "title": "野夏天"
+      }
+    ]
+}
